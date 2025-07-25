@@ -1,2 +1,2 @@
-# GroupRepos-CNPG323
+# GroupRepos-CMPG323
 A group repository to use for future project management for the module CMPG323
